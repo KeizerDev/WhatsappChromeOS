@@ -13,8 +13,8 @@
 		"http://127.0.0.1/*"
 	],
 	"icons": {
-		"16": "images/icon-16.png",
-		"128": "images/icon-128.png"
+		"16": "images/icon.png",
+		"128": "images/icon.png"
 	},
 	"app": {
 		"background": {
