@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Whatsapp",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Whatsapp for Chrome",
+        "description": "The description of the application"
+    }
+}
